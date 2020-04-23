@@ -1,10 +1,13 @@
 ---
+
+layout: col-sidebar
 title: Eventos Anteriores
-layout:  null
-tab: true
-order: 1
-tags: example-tag
+tags: ags
+
 ---
+
+[Home Page](index.md)
+&nbsp;&nbsp;&nbsp;<strong>Eventos Anteriores</strong>
 
 ## Eventos Anteriores
 
@@ -19,3 +22,4 @@ tags: example-tag
 | 25 Julio 2018, 8:00 PM  | [The Inventor's House](https://www.google.com.mx/maps/place/The+Inventor's+House/@21.9008969,-102.3185788,17z/data=!3m1!4b1!4m2!3m1!1s0x8429ee8836a23da9:0x3db4cc1feb784d6d?hl=en) | OWASP Benchmark, Midiendo Herramientas de Seguridad  | | |
 | 14 Noviembre 2018, 7:00 PM | [The Inventor's House](https://www.google.com.mx/maps/place/The+Inventor's+House/@21.9008969,-102.3185788,17z/data=!3m1!4b1!4m2!3m1!1s0x8429ee8836a23da9:0x3db4cc1feb784d6d?hl=en) | El impacto de los bug bounties en las empresas | | |
 | 26 Marzo 2019, 11:00 AM  | [Instituto Nacional de Estadística y Geografía (INEGI)](https://goo.gl/maps/DDA9AQob8gVWcsBu7) | [Modelo de Madurez Abierto](/www-pdf-archive/OWASPAGS_SAMM_2019-2.pdf)  | | |
+
