@@ -2,9 +2,8 @@
 
 layout: col-sidebar
 title: OWASP Aguascalientes 
-tags: example-tag
-level: 0
-
+tags: aguascalientes
+level: 4
 region: North America
 
 ---
