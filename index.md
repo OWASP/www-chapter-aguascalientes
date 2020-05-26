@@ -1,7 +1,7 @@
 ---
 
 layout: col-sidebar
-title: OWASP Aguascalientes Mexico
+title: OWASP Aguascalientes 
 tags: example-tag
 level: 0
 
