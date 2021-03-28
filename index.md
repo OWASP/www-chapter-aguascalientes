@@ -22,6 +22,48 @@ tienes alguna duda puedes contactarnos al correo [Juan Gama](mailto:juan.gama@ow
 Próximos Eventos
 ---------------
 
+### OWASP Aguascalientes Chapter Meeting 2021 02
+
+**Cuando:** Viernes 02 de Abril del 2021 a las 4:00 pm
+
+**Título: Software Composition Analysis** 
+<blockquote> 
+<br>
+En esta sesión, les presentaremos el tema de Software Composition Analysis (SCA), para evitar el uso de componentes con vulnerabilidades conocidas (A9:2017). Algunas de las herramientas disponibles en el mercado y un demo (Owasp dependency check y Snyk) de como lo podrían ejecutar, como interpretar los reportes y como hacer las correcciones.
+</blockquote>
+
+**Speaker:** 
+<blockquote>
+<b>David Alejandro Garcia Guevara</b> 
+</blockquote>
+
+
+### OWASP Aguascalientes Chapter Meeting 2021
+
+**Cuando:** Lunes 22 de Febrero del 2021 a las 4:00 pm
+
+**Donde:** [Meetup](https://www.meetup.com/owasp-aguascalientes-meetup-group/events/276521209/)
+
+**Video del evento:** [OWASP Youtube](https://youtu.be/gVmAuZn6bIs)
+
+**Título: Estandares de Desarrollo Seguro Java Spring** 
+<blockquote> 
+<br>
+En esta presentacion se mostraran algunos de los estandares de desarrollo seguro con Spring asi como implementarlos en una aplicacion demo.
+</blockquote>
+
+**Speaker:** 
+<blockquote>
+<b>David Alejandro Garcia Guevara</b> 
+</blockquote>
+
+**Título: OWASP Pruebas de Seguridad en Aplicaciones** 
+<blockquote> 
+<br>
+Se abordaran algunos de los tipos de pruebas de seguridad de aplicaciones que se pueden hacer asi como sus ventajas y desventajas
+</blockquote>
+
+
 ### OWASP Aguascalientes Chapter Meeting
 
 **Cuando:** Martes 10 de Marzo del 2020 a las 7:00 pm
