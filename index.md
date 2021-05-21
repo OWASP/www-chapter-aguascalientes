@@ -22,6 +22,8 @@ tienes alguna duda puedes contactarnos al correo [Juan Gama](mailto:juan.gama@ow
 Próximos Eventos
 ---------------
 
+{% include chapter_events.html group=page.meetup-group %}
+
 ### OWASP Aguascalientes Chapter Meeting 2021 02
 
 **Cuando:** Viernes 02 de Abril del 2021 a las 4:00 pm
