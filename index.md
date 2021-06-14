@@ -5,6 +5,7 @@ title: OWASP Aguascalientes
 tags: aguascalientes
 level: 4
 region: North America
+meetup-group: owasp-aguascalientes-meetup-group
 
 ---
 <strong>Home Page</strong>
