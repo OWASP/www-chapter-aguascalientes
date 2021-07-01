@@ -47,6 +47,8 @@ En esta sesión, les presentaremos el tema de Software Composition Analysis (SCA
 
 **Donde:** [Meetup](https://www.meetup.com/owasp-aguascalientes-meetup-group/events/276521209/)
 
+**Link:** [Zoom](https://us02web.zoom.us/j/81467622168?pwd=ZWhseFUzdGtEa05CcmhKV3RIM2RvUT09)
+
 **Video del evento:** [OWASP Youtube](https://youtu.be/gVmAuZn6bIs)
 
 **Título: Estandares de Desarrollo Seguro Java Spring** 
