@@ -9,7 +9,7 @@ meetup-group: owasp-aguascalientes-meetup-group
 
 ---
 <strong>Home Page</strong>
-&nbsp;&nbsp;&nbsp;[Eventos Anteriores](tab_eventos .md)
+&nbsp;&nbsp;&nbsp;[Eventos Anteriores](tab_eventos.md)
 
 Bienvenidos
 ---------------
