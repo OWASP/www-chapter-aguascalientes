@@ -23,3 +23,4 @@ tienes alguna duda puedes contactarnos al correo [Juan Gama](mailto:juan.gama@ow
 Próximos Eventos
 ---------------
 
+{% include chapter_events.html group=page.meetup-group %}
