@@ -9,6 +9,26 @@ tags: ags
 
 ## Eventos Anteriores
 
+### OWASP Aguascalientes Chapter Meeting 03 / 2021
+
+**Cuando:** Martes 16 de Diciembre del 2021 a las 7:00 pm
+
+**Donde:** [Meetup](https://www.meetup.com/owasp-aguascalientes-meetup-group/events/282682498//)
+
+**Link:** [Zoom](https://us06web.zoom.us/j/87931948204?pwd=cFFHSS91WjF5NllrdDdsaFMrc01KUT09)
+
+**Video del evento:** [OWASP Youtube](https://youtu.be/KV7EAhW2V_w)
+
+**Título: ¿Passwordless: Un futuro sin contraseñas?**
+
+Hablaremos acerca del modelo passwordless para autenticación y las implicaciones relacionadas a la seguridad tanto para usuarios como para las aplicaciones. En dicho modelo, como su nombre lo indica, ya no se necesitan contraseñas.
+
+**Speaker:**
+
+<blockquote>
+<b>Also Salas</b> 
+</blockquote>
+
 ### OWASP Aguascalientes Chapter Meeting 02 / 2021
 
 **Cuando:** Martes 26 de Octubre del 2021 a las 8:00 pm
