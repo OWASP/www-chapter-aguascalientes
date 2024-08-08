@@ -12,7 +12,7 @@ meetup-group:
 
 Próxima reunión:
 
-Fecha: **Mayo** **2019**
+Fecha: **Septiembre** **2024**
 
 Hora: Por definir
 
@@ -22,16 +22,13 @@ Si estás interesado en participar como patrocinador, presentador o
 tienes alguna duda puedes suscribirte a la lista de correos [OWASP
 Aguascalientes Mailing
 List](https://lists.owasp.org/mailman/listinfo/owasp-aguascalientes_mexico)
-y/ó directamente con alguno de los líderes del capítulo [Juan
-GaMa](mailto:juan.gama@owasp.org) o [Aldo
-Salas](mailto:aldo.salas@owasp.org) .
+y/ó directamente con alguno de los líderes del capítulo [Angel Alamillo](mailto:angel.alamillo@owasp.org).
 
 ## Reuniones anteriores
 
 | Fecha             | Lugar                                                                                                                                                                              | Temas y presentaciones                                                                                                                                                                                                                                                                   | Fotos                                                                                             | Sesión grabada                       |
 | ----------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------- | ------------------------------------ |
-| 31 Abril, 2016    | [The Inventor's House](https://www.google.com.mx/maps/place/The+Inventor's+House/@21.9008969,-102.3185788,17z/data=!3m1!4b1!4m2!3m1!1s0x8429ee8836a23da9:0x3db4cc1feb784d6d?hl=en) | [Chapter Kickoff - Juan Gama](/www-pdf-archive/OWAS-AGS-Kickoff.pdf), [Why AppSec Matters? - Aldo Salas](/www-pdf-archive/Ags_Local_Chapter_1.pdf)                                                                                                     | [Fotos](https://www.facebook.com/permalink.php?story_fbid=1062744117130910&id=1052881434783845)   |                                      |
-| 27 Julio, 2016    | [The Inventor's House](https://www.google.com.mx/maps/place/The+Inventor's+House/@21.9008969,-102.3185788,17z/data=!3m1!4b1!4m2!3m1!1s0x8429ee8836a23da9:0x3db4cc1feb784d6d?hl=en) | [Docker and Security - Juan Gama](/www-pdf-archive/OWASP_Ags_Chapter_Meeting_02.pdf), [Security Shepherd - Aldo Salas](/www-pdf-archive/Ags_Local_Chapter_ShepHerd.pdf)                                                                                |  
+| -   | - | -  | -  | -    |                                                                    |  
 
 ## Patrocinadores
 
