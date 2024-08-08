@@ -35,7 +35,8 @@ y/ó directamente con alguno de los líderes del capítulo [Angel Alamillo](mail
 Agradecemos a los siguientes patrocinadores por apoyarnos durante
 nuestras reuniones:
 
-[The Inventor's House](http://theinventorhouse.org/)
+[Academia de Ciberseguridad](academia-ciberseguridad.com/)
+[Soluciones en Tecnología y Ciberseguridad](https://teciberseguridad.com/)
 
 ## Sobre OWASP
 
