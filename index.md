@@ -8,6 +8,34 @@ country: Mexico
 meetup-group:
 
 ---
+## Noticias Locales
+
+Próxima reunión:
+
+Fecha: **Mayo** **2019**
+
+Hora: Por definir
+
+Lugar: Por definir
+
+Si estás interesado en participar como patrocinador, presentador o
+tienes alguna duda puedes suscribirte a la lista de correos [OWASP
+Aguascalientes Mailing
+List](https://lists.owasp.org/mailman/listinfo/owasp-aguascalientes_mexico)
+y/ó directamente con alguno de los líderes del capítulo [Juan
+GaMa](mailto:juan.gama@owasp.org) o [Aldo
+Salas](mailto:aldo.salas@owasp.org) .
+
+## Reuniones anteriores
+| Fecha             | Lugar                                                                                                                                                                              | Temas y presentaciones                                                                                                                                                                                                                                                                   | Fotos                                                                                             | Sesión grabada                       |
+| ----------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------- | ------------------------------------ |
+
+## Patrocinadores
+
+Agradecemos a los siguientes patrocinadores por apoyarnos durante
+nuestras reuniones:
+
+[The Inventor's House](http://theinventorhouse.org/)
 
 ## Sobre OWASP
 
