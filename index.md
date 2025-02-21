@@ -31,10 +31,13 @@ y/ó directamente con alguno de los líderes del capítulo [Angel Alamillo](mail
 Agradecemos a los siguientes patrocinadores por apoyarnos durante
 nuestras reuniones:
 
-[![Academia de Ciberseguridad]([https://academia-ciberseguridad.com/logo.png](https://congresoseguridad.mx/images/companys/academia.png))](https://academia-ciberseguridad.com/)  
-
 [Academia de Ciberseguridad](academia-ciberseguridad.com/)
+
 [Soluciones en Tecnología y Ciberseguridad](https://teciberseguridad.com/)
+
+[Universidad Santiago de Tecnología e Innovación (USTI)](https://www.usti.education/)
+
+
 
 ## Reuniones anteriores
 
