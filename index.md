@@ -12,11 +12,13 @@ meetup-group:
 
 Próxima reunión:
 
-Fecha: **Septiembre** **2024**
+Fecha: **7 Junio** **2025**
 
-Hora: Por definir
+Hora: 9:00 AM - 13:00 PM
 
-Lugar: Por definir
+Lugar: Universidad Santiago de Tecnología e Innovación (USTI)
+
+[INSCRIBETE AL EVENTO 2025](https://www.meetup.com/owasp-aguascalientes-meetup-group/events/306332862/?utm_medium=referral&utm_campaign=share-btn_savedevents_share_modal&utm_source=link)
 
 Si estás interesado en participar como patrocinador, presentador o
 tienes alguna duda puedes suscribirte a la lista de correos [OWASP
@@ -24,19 +26,21 @@ Aguascalientes Mailing
 List](https://lists.owasp.org/mailman/listinfo/owasp-aguascalientes_mexico)
 y/ó directamente con alguno de los líderes del capítulo [Angel Alamillo](mailto:angel.alamillo@owasp.org).
 
-## Reuniones anteriores
-
-| Fecha             | Lugar                                                                                                                                                                              | Temas y presentaciones                                                                                                                                                                                                                                                                   | Fotos                                                                                             | Sesión grabada                       |
-| ----------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------- | ------------------------------------ |
-| Por definir   | Por definir | Por definir  | Por definir  | Por definir    | 
-
 ## Patrocinadores
 
 Agradecemos a los siguientes patrocinadores por apoyarnos durante
 nuestras reuniones:
 
+[![Academia de Ciberseguridad]([https://academia-ciberseguridad.com/logo.png](https://congresoseguridad.mx/images/companys/academia.png))](https://academia-ciberseguridad.com/)  
+
 [Academia de Ciberseguridad](academia-ciberseguridad.com/)
 [Soluciones en Tecnología y Ciberseguridad](https://teciberseguridad.com/)
+
+## Reuniones anteriores
+
+| Fecha             | Lugar                                                                                                                                                                              | Temas y presentaciones                                                                                                                                                                                                                                                                   | Fotos                                                                                             | Sesión grabada                       |
+| ----------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------- | ------------------------------------ |
+| Por definir   | Por definir | Por definir  | Por definir  | Por definir    | 
 
 ## Sobre OWASP
 
