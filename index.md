@@ -12,13 +12,13 @@ meetup-group:
 
 Próxima reunión:
 
-Fecha: **7 Junio** **2025**
+Fecha: Por Definir (Fecha tentativa Julio - Agosto 2025)
 
-Hora: 9:00 AM - 13:00 PM
+Hora: Por definir
 
-Lugar: Universidad Santiago de Tecnología e Innovación (USTI)
+Lugar: Por Definir
 
-[INSCRIBETE AL EVENTO 2025](https://www.meetup.com/owasp-aguascalientes-meetup-group/events/306332862/?utm_medium=referral&utm_campaign=share-btn_savedevents_share_modal&utm_source=link)
+[INSCRIBETE AL EVENTO 2025](#)
 
 Si estás interesado en participar como patrocinador, presentador o
 tienes alguna duda puedes suscribirte a la lista de correos [OWASP
@@ -43,7 +43,7 @@ nuestras reuniones:
 
 | Fecha             | Lugar                                                                                                                                                                              | Temas y presentaciones                                                                                                                                                                                                                                                                   | Fotos                                                                                             | Sesión grabada                       |
 | ----------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------- | ------------------------------------ |
-| 07/06/2025   | Universidad Santiago de Tecnología e Innovación (USTI) | NA  | Por definir  | [Ver Fotos](https://drive.google.com/drive/folders/1miPREa6Oykc3-WXSp9LICcLwiPALQQFw?usp=sharing)    | 
+| 07/06/2025   | Universidad Santiago de Tecnología e Innovación (USTI) | NA  | [Ver Fotos](https://drive.google.com/drive/folders/1miPREa6Oykc3-WXSp9LICcLwiPALQQFw?usp=sharing)  | NA    | 
 
 ## Sobre OWASP
 
