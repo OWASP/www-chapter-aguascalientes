@@ -1,0 +1,25 @@
+leaders:
+  - name: Angel Alamillo
+    email: angel.alamillo@owasp.org
+    github: aztr4x
+  - name: Aylin Diaz
+    email: aylin.diaz@owasp.org
+  - name: Carlos Varela
+    email: carlos.varela@owasp.org
+location:
+  country: Mexico
+  country_code: MX
+  region: Aguascalientes
+  city: Aguascalientes
+  latitude: 21.9942689
+  longitude: -102.3726689
+name: OWASP Aguascalientes
+repositories:
+  - name: www-chapter-aguascalientes
+    url: https://github.com/OWASP/www-chapter-aguascalientes
+    description: OWASP Foundation Web Repository
+tags:
+  - example-tag
+  - custom-tag-1
+  - custom-tag-2
+website: https://owasp.org/www-chapter-aguascalientes
